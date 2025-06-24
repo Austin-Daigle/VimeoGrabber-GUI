@@ -2,6 +2,8 @@
 
 A graphical user interface for downloading private Vimeo videos with ease.
 
+[Download .exe Application Here (Windows Only)](https://github.com/Austin-Daigle/VimeoGrabber-GUI-1.0/blob/main/VimeoGrab.exe)
+
 ## Features
 
 - Simple and intuitive graphical interface
