@@ -1,12 +1,6 @@
-# VimeoGrab GUI v1.0
+# VimeoGrab GUI v1.1
 
 A graphical user interface for downloading private Vimeo videos with ease.
-
-[Download .exe Application Here (Windows Only)](https://github.com/Austin-Daigle/VimeoGrabber-GUI-1.0/blob/main/VimeoGrab.exe)
-
-ignore all software requirements and installation instructions 
-if you are using the .exe application as that is a 
-self-contained application.
 
 ## Features
 
@@ -20,6 +14,7 @@ self-contained application.
 - Smart file path detection for easy folder access
 - Leverages yt-dlp for reliable video extraction
 - Automatically checks for and installs dependencies
+- Available as standalone Windows executable (no Python required)
 
 ## Screenshots
 

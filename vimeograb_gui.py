@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
 """
-VimeoGrab GUI v1.0 - Graphical User Interface for VimeoGrab
+VimeoGrab GUI v1.1 - Graphical User Interface for VimeoGrab
 Downloads private Vimeo videos using just a link with an easy-to-use interface
 
-Version: 1.0
+Version: 1.1
 Status: Stable
+
+Changelog:
+v1.1 - Improved progress indication for two-phase downloads
+      - Now clearly distinguishes between download and processing phases
+      - Added standalone EXE compilation support
+      - Fixed "Open Folder" button functionality
 """
 
 import os
@@ -27,6 +33,9 @@ except ImportError:
     messagebox.showerror("Import Error", "Could not import vimeograb_core. Make sure it's in the parent directory.")
     sys.exit(1)
 
+# Main GUI class for VimeoGrab
+# Uses a step-by-step workflow for URL input, quality selection, and download
+# Handles both download and processing phases with clear progress indication
 class VimeoGrabGUI:
     def __init__(self, root):
         self.root = root
