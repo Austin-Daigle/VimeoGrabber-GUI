@@ -1,1 +1,1 @@
-This directory contains the code and resources required to compile this program into a standalone .exe.
+This directory contains the code and resources required to compile this program into a standalone .exe. This directory contains the latest version of the application (v1.1) with the fixes to the loading bar and improvments to ffmpeg processing speeds.
