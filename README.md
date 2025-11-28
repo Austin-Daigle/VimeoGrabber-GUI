@@ -6,7 +6,7 @@ A graphical user interface for downloading private Vimeo videos with ease.
 
 ## Updates/Version History:
 - Version 1.0: Stable build, able to download private or public videos from Vimeo.
-- Version 2.0: Improved performace, bug fixes with the quality selection interface, opening
+- Version 1.1: Improved performace, bug fixes with the quality selection interface, opening
                the directory of download location, and selecting download locations.
 
 ## Features
