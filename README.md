@@ -4,7 +4,7 @@ A graphical user interface for downloading private Vimeo videos with ease.
 
 [Download v.1.1 Here - Windows Only](https://github.com/Austin-Daigle/VimeoGrabber-GUI/blob/main/VimeoGrabber_GUI_v.1.1.exe)
 
-[Download v.1.2 Here - Windows Only]([https://drive.google.com/file/d/1VBkIL4l_v30je5_fm-fYfp2BiyOEOv0Y/view?usp=sharing](https://drive.google.com/file/d/1jzhobIAoIhxcI1SWpz1te0M2cdJY2jc4/view?usp=sharing))
+[Download v.1.2 Here - Windows Only](https://drive.google.com/file/d/1jzhobIAoIhxcI1SWpz1te0M2cdJY2jc4/view?usp=sharing)
 
 ## Updates/Version History:
 - Version 1.0: Stable build, able to download private or public videos from Vimeo.
