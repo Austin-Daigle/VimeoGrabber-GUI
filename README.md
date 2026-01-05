@@ -11,11 +11,8 @@ A graphical user interface for downloading private Vimeo videos with ease.
 - Version 1.0: Stable build, able to download private or public videos from Vimeo.
 - Version 1.1: Improved performace, bug fixes with the quality selection interface, opening
                the directory of download location, and selecting download locations.
-- Version 1.2: Converted to a fully self-contained EXE (bundles yt-dlp and ffmpeg)
-              with robust runtime path detection to fix WinError 2; adds optional cookies
-              support, clearer error messages, and   minor UI/progress polish
-              (title updated to v1.2). <REMOVE THIS STILL UNDER DEV>
-
+- Version 1.1.2: Converted to a fully self-contained EXE that auto-downloads ffmpeg/yt-dlp
+-               into a separate working directory.
 ## Features
 
 - Simple and intuitive graphical interface
